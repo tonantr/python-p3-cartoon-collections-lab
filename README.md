@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Get practice iterating through lists
+- Get practice iterating through lists.
 - Build functions and control their return values.
 
 ***
